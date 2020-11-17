@@ -1,0 +1,34 @@
+body {
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+  border-color: grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 3%;
+}
+h1{
+  color: #1a1c20;
+  font-size: 35px;
+}
+h2{
+  color: #cf7500;
+  font-size: 30px;
+}
+h3{
+  color: #f0a500;
+  font-size: 22px;
+}
+p{
+  font-size: 20px;
+}
+li{
+  font-size: 20px;
+}
+td{
+  font-size: 20px;
+}
+em{
+  font-size: 30px;
+}
